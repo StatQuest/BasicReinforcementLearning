@@ -1,4 +1,4 @@
-# BasicReinforcementLearning
+# Basic Reinforcement Learning (RL)
 
 This is a tutorial on how to do basic **Reinforcement Learning**.
 
